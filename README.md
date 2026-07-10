@@ -21,6 +21,15 @@ The project covers the complete workflow from **data exploration and preprocessi
  
 ---
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+🌐 **Streamlit App:**  
+https://customer-churn-prediction-ahmed-alquwaie.streamlit.app/
+
+---
+
 # 📑 Table of Contents
 
 - [Project Overview](#-project-overview)
@@ -28,9 +37,9 @@ The project covers the complete workflow from **data exploration and preprocessi
 - [Dataset](#-dataset)
 - [Features](#-features)
 - [Installation](#%EF%B8%8F-installation)
-- [Methodology](#-methodology)
+- [Methodology](#%EF%B8%8F-methodology)
 - [Exploratory Data Analysis](#-exploratory-data-analysis)
-- [Data Preprocessing](#-data-preprocessing)
+- [Data Preprocessing](#%EF%B8%8F-data-preprocessing)
 - [Model Training](#-model-training)
 - [Threshold Optimization](#-threshold-optimization)
 - [Model Comparison](#-model-comparison)
@@ -41,9 +50,9 @@ The project covers the complete workflow from **data exploration and preprocessi
 - [Project Structure](#-project-structure)
 - [Technologies Used](#%EF%B8%8F-technologies-used)
 - [Results](#-results)
-- [Limitations](#-limitations)
+- [Limitations](#%EF%B8%8F-limitations)
 - [Future Improvements](#-future-improvements)
-- [Author](#-author)
+- [Author](#%E2%80%8D-author)
 
 ---
 
@@ -132,6 +141,8 @@ The model uses the following customer attributes:
 ---
 
 # ⚙️ Installation
+
+> **Note:** If you only want to use the application, you can access the deployed Streamlit app directly (see the Live Demo section above). The following steps are only required if you want to run the project locally.
 
 ## 1. Clone the repository
 
